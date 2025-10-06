@@ -1,3 +1,7 @@
+Added a few icons to make nm-applet and bleman-applet look good because they're falling back on the old and ugly hicolor icons
+this version of candy icons is quite old
+
+
 ![](preview/candy.png)
 
 >An icon theme colored with sweet gradients
